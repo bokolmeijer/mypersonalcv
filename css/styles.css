@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 .myname{color: #C293CF;}
-.jaartallen {color: #7F969C;}
+.jaartallen {color: #806EB2;}
 
 
 
@@ -20,7 +20,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-	background-color: #C2D1D5;
+	background-color: #C2B9DA;
 }
 
 .resume-main {
@@ -28,9 +28,10 @@ body {
 }
 
 .resume-aside {
-	background-color: #BCBCBC;
+	background-color: #CDCDCD;
 }
 
+.kleurtaal {color: #DCDADB}
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
@@ -42,7 +43,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #BCBCBC;
+	color: #5D5D5D;
 }
 
 .biography-details li, .skill-list li {
@@ -54,4 +55,6 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.d-flex.flex-column.h-100.justify-content-between .container.shadow-lg.my-sm-4.resume-container .row.resume-header.justify-content-center {
 }
