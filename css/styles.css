@@ -9,14 +9,15 @@
 
 .myname{color: #C293CF;}
 .jaartallen {color: #806EB2;}
-.language-progress {color: #E1C4FB}
+
 .myfont {font-family: "Playfair Display", serif;}
 
 a:link {color: #000000}
 a:visited {color: #313131}
 a:hover {color: #806EB2}
 
-
+.fontbar{color: #000000}
+.hopelijk {color: #C293CF;}
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -65,3 +66,8 @@ body {
 }
 .d-flex.flex-column.h-100.justify-content-between .container.shadow-lg.my-sm-4.resume-container .row.resume-header.justify-content-center {
 }
+
+
+	
+
+
