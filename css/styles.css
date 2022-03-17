@@ -3,14 +3,20 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&display=swap');
 
 /* Styles for the body */
 
 .myname{color: #C293CF;}
 .jaartallen {color: #806EB2;}
+.language-progress {color: #E1C4FB}
+.myfont {font-family: "Playfair Display", serif;}
 
-.myfont {font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+a:link {color: #000000}
+a:visited {color: #313131}
+a:hover {color: #806EB2}
+
+
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
